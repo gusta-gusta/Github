@@ -54,7 +54,7 @@ require_once 'controlador.php';
             echo "<br>";
             }
     } 
-    public function fecharMenu() {
+ function fecharMenu() {
          echo "<br>Fechando Menu...";
     }
     public function maisVolume() {  
